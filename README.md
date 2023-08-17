@@ -1,5 +1,12 @@
 # Makecode-Plugins
-
+Please note that all items need to be imported into your game.
+* create a new project at https://arcade.makecode.com
+* click on ```Extensions```
+* add the repository listed below the title, looks like so:
+  ```
+  https://github.com/microsoft/pxt-microsoft-boot-sequence
+  ```
+* Look at the new blocks added!
 
 ## Makecode Arcade boot sequence/loading screen.
  A tool to add a loading screen to your game.  

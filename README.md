@@ -54,12 +54,3 @@ https://github.com/microsoft/arcade-timers
 [How to use Arcade Timers](arcadetimers).
 
 
-## Arcade Minimap.
-A minimap for your game.
-```
-https://github.com/microsoft/arcade-timers
-```
-[How to use Arcade Minimap](arcademinimap).
-
-
-
